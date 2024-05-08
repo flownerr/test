@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "https://github.com/flownerr/test/blob/main/dtester.exe?raw=true",
+      "download-url": "https://github.com/flownerr/test/raw/main/dtester.exe",
       "changelog": "hm,mm",
       "mandatory": false
     }
